@@ -17,6 +17,7 @@ body {
     max-width: 2048px;
     width: 80%;
 }
+
 header {
     background-color: #000032;
     background-image: url("images/sunset.jpg");
@@ -27,15 +28,19 @@ header {
     padding-top: 15px;
     text-align: center;
 }
+
 header a {
     text-decoration: none;
 }
+
 header a: link, header a: visited {
     color: #fff;
 }
+
 header a:hover {
     color: #90c7e3;
 }
+
 nav {
     float: left;
     font-size: 120%;
@@ -80,9 +85,11 @@ h1 {
     margin-bottom: 0;
     margin-top: 0;
 }
+
 h1, h2, h3, footer {
     font-family: Georgia, "Times New Roman", serif;
 }
+
 h2 {
     color: #1976d2;
     text-shadow: 1px 1px #ccc;
@@ -90,6 +97,7 @@ h2 {
 h3 {
     color: #003;
 }
+
 dt {
     color: #002171;
 }
@@ -97,6 +105,7 @@ address {
     font-style: normal;
     color: #555;
 }
+
 footer {
     background-color: #fff;
     font-size: 75%;
@@ -105,6 +114,7 @@ footer {
     padding: 2em;
     text-align: center;
 }
+
 .resort {
     color: #1976d2;
     font-weight: bold;
